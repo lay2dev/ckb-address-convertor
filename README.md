@@ -1,4 +1,4 @@
-# Quasar App (eth-ckb)
+# Quasar App (ckb-address-convertor)
 
 A Quasar Framework app
 
